@@ -1,2 +1,2 @@
 # SIH
-The official SIH project
+The official SIH dev repository
