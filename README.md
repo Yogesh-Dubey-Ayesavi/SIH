@@ -1,2 +1,2 @@
-# sih
+# SIH
 The official SIH project
